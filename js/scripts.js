@@ -215,11 +215,11 @@
     /* -------------------
     Preloader
     ---------------------*/
-    $(window).load(function(){ 
-        // Preloader 
-        $('#loader').fadeOut('slow');
-        $('.spinner').fadeOut('slow'); 
-    }); // End Window Load
+    // $(window).load(function(){ 
+    //     // Preloader 
+    //     $('#loader').fadeOut('slow');
+    //     $('.spinner').fadeOut('slow'); 
+    // }); // End Window Load
     /* -------------------
     Page Hero Parallax
     ---------------------*/
